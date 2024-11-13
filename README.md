@@ -7,8 +7,8 @@
 
 - ⚡ Fun fact **I like to think I can talk to my code... sometimes it listens, sometimes it throws an error**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/atulraj0729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulraj0729" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul-0729-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-0729-raj" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_t_u_l__r_a_j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_t_u_l__r_a_j_" height="30" width="40" /></a>
