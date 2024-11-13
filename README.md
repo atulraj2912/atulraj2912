@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **araj29122004@gmail.com**
 
-- ⚡ Fun fact ** I like to think I can talk to my code... sometimes it listens, sometimes it throws an error.**
+- ⚡ Fun fact **I like to think I can talk to my code... sometimes it listens, sometimes it throws an error**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
