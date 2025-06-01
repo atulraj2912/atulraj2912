@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Raj 🧑‍💼 </h1>
 <h3 align="center">A passionate Software developer 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Structures & Algorithm**
 
 - 📫 How to reach me **araj29122004@gmail.com**
 
