@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
 
-- 📫 How to reach me **araj29122004@gmail.com**
+- 📫 How to reach me **https://portfolio-atulraj.vercel.app/**
 
 - ⚡ Fun fact **Writing code to the sound of lo-fi beats is my idea of a productive day**
 
